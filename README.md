@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b8ace3&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm+Yanhe+Fang;Be+Welcome+to+my+GitHup+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b8ace3&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm+Yanhe+Fang;Be+Welcome+to+my+GitHub+:%29)
 
 ## :cat: 42 Common Core Student
 
